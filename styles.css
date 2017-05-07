@@ -1,3 +1,62 @@
-body {
-  background-color: yellow;
+
+.borders {
+  padding: 5px;
+  border: 2px solid grey;
+  margin: 10px;
+  font-family: sans-serif;
 }
+
+h1 {
+  background-color: rgb(40,40,20);
+  color: white;
+  padding: 15px;
+  font-size: 35px;
+  font-family: georgia;
+}
+
+.col1{
+float: left;
+}
+
+.col2 {
+  position: relative;
+  float: left;
+  width: 210px;
+  padding:10px;
+  border: 1px solid grey;
+  margin:27px;
+  min-width: 180px;
+  background-image: url(https://thumbs.dreamstime.com/z/poppy-flowers-blurred-nature-background-banner-website-56842833.jpg);
+}
+
+body {
+  max-width: 960px;
+}
+
+main {
+  width: 670px;
+}
+
+img {
+  width: 670px;
+}
+
+#design {
+  font-style: italic;
+  text-align: center;
+  font-family:georgia;
+}
+
+a {
+  text-decoration: underline;
+}
+
+a:link {
+  text-decoration: underline;
+  color: purple;
+}
+a:visited {
+  color: green;
+  text-decoration: underline;
+}
+

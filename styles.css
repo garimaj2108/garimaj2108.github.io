@@ -47,10 +47,6 @@ img {
   font-family:georgia;
 }
 
-a {
-  text-decoration: underline;
-}
-
 a:link {
   text-decoration: underline;
   color: purple;

@@ -48,8 +48,8 @@ img {
 }
 
 a:link {
-  text-decoration: underline;
   color: purple;
+    text-decoration: underline;
 }
 
 a:visited {
